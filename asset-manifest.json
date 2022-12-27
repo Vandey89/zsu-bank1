@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/zsu-bank1/static/css/main.360c7857.css",
+    "main.js": "/zsu-bank1/static/js/main.ddfd2c80.js",
+    "static/media/g3Ku.gif": "/zsu-bank1/static/media/g3Ku.6efe60e578693f8a2fb5.gif",
+    "static/media/food.svg": "/zsu-bank1/static/media/food.803d142acf79533f7c9562c60254becc.svg",
+    "static/media/money.svg": "/zsu-bank1/static/media/money.c0d76d668dd69749fe2cecaba838f157.svg",
+    "static/media/money$.svg": "/zsu-bank1/static/media/money$.bf49f1ea34736f9128b110b8dd4f35f1.svg",
+    "static/media/proba.svg": "/zsu-bank1/static/media/proba.c8f05b07baeb5ecabc0cab2f60dc2de1.svg",
+    "index.html": "/zsu-bank1/index.html",
+    "main.360c7857.css.map": "/zsu-bank1/static/css/main.360c7857.css.map",
+    "main.ddfd2c80.js.map": "/zsu-bank1/static/js/main.ddfd2c80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.360c7857.css",
+    "static/js/main.ddfd2c80.js"
+  ]
+}
